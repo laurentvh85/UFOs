@@ -1,5 +1,5 @@
 # UFOs
-The goal of this project was to create multiple filters to go through the UFO data. This will allow users to filter the data by multiple factors at once. The data table is update by user inputs.
+The goal of this project was to create multiple filters to go through the UFO data. This will allow users to filter the data by multiple factors at once. The data table is updated by user inputs.
 
 This project involved Javascript, CSS, and HTML to display the proper data in a web browser.
 
